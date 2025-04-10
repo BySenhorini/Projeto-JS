@@ -1,3 +1,5 @@
+//g. Verificar o mês pelo número(Switch case)
+
 let numeroMes = prompt("Digite o número do mês (1 a 12):");
 
 numeroMes = Number(numeroMes); // Converte para número

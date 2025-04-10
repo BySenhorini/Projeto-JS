@@ -1,3 +1,4 @@
+//Verificar se uma senha digitada está correta
 const senhaCorreta = "1234"; // Senha definida
 let senhaDigitada = prompt("Digite a senha:");
 

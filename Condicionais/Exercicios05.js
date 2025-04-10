@@ -1,3 +1,5 @@
+//Verificar se um aluno foi aprovado
+
 let nota = prompt("Digite a nota do aluno:");
 
 nota = Number(nota); // Converte para número

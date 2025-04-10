@@ -1,3 +1,5 @@
+//Verificar se um número é par ou ímpar
+
 let numero = prompt("Digite um número: ");
 
 numero = Number(numero); // Converte para número
